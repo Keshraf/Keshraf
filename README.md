@@ -1,6 +1,6 @@
 ### Hello World <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-I am `10001` year-old developer from Kolkata, India.
+I am a developer from Kolkata, India.
 <!--
 **Keshraf/Keshraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
