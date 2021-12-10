@@ -58,3 +58,5 @@ Here are some ideas to get you started:
 </p>
   <img src="https://activity-graph.herokuapp.com/graph?username=Keshraf&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </details>
+
+<!--START_SECTION:activity-->
