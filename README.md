@@ -60,3 +60,9 @@ Here are some ideas to get you started:
 </details>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#55](https://github.com/ghulamyazdani/TruHealth/issues/55) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
+2. ❗️ Opened issue [#55](https://github.com/ghulamyazdani/TruHealth/issues/55) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
+3. 🗣 Commented on [#47](https://github.com/ghulamyazdani/TruHealth/issues/47) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
+4. 🗣 Commented on [#47](https://github.com/ghulamyazdani/TruHealth/issues/47) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
+5. 💪 Opened PR [#48](https://github.com/ghulamyazdani/TruHealth/pull/48) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
+<!--END_SECTION:activity-->
