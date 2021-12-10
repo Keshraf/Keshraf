@@ -46,3 +46,15 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+<h3 style="font-size: 32px"> My GitHub Stats 📈</h3>
+<details >
+  <summary><i>Click to expand</i></summary>
+  <br />
+  <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Keshraf&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=1CADFB&text_color=ddd&icon_color=1CADFB&bg_color=0D1117&include_all_commits=true" />
+    <a>&nbsp;&nbsp;</a>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Keshraf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
+</p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Keshraf&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+</details>
