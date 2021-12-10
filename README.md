@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<h3 style="font-size: 32px"> GitHub Stats 📈</h3>
+### GitHub Stats <img src="https://user-images.githubusercontent.com/82109991/145544086-7ea9dab0-b657-457b-925f-b547ed7e3b32.gif" width="30px">
+
 <details >
   <summary><i>Click to expand</i></summary>
   <br />
@@ -59,7 +60,9 @@ Here are some ideas to get you started:
   <img src="https://activity-graph.herokuapp.com/graph?username=Keshraf&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </details>
 <hr>
-<h3 style="font-size: 32px"> Latest Activity⚡</h3>
+
+### Latest Activity <img src="https://user-images.githubusercontent.com/82109991/145543338-fe790bf6-3592-451a-ab45-09ca72d94965.gif" width="30px">
+
 <details >
   <summary><i>Click to expand</i></summary>
   <br />
