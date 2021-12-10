@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<h3 style="font-size: 32px"> My GitHub Stats 📈</h3>
+<h3 style="font-size: 32px"> Stats 📈</h3>
 <details >
   <summary><i>Click to expand</i></summary>
   <br />
@@ -59,6 +59,10 @@ Here are some ideas to get you started:
   <img src="https://activity-graph.herokuapp.com/graph?username=Keshraf&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </details>
 
+<h3 style="font-size: 32px"> Activity⚡</h3>
+<details >
+  <summary><i>Click to expand</i></summary>
+  <br />
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#55](https://github.com/ghulamyazdani/TruHealth/issues/55) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
 2. ❗️ Opened issue [#55](https://github.com/ghulamyazdani/TruHealth/issues/55) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
