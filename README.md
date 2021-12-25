@@ -68,11 +68,11 @@ Here are some ideas to get you started:
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/ghulamyazdani/TruHealth/issues/56) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
-2. 💪 Opened PR [#56](https://github.com/ghulamyazdani/TruHealth/pull/56) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
-3. 🗣 Commented on [#55](https://github.com/ghulamyazdani/TruHealth/issues/55) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
-4. ❗️ Opened issue [#55](https://github.com/ghulamyazdani/TruHealth/issues/55) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
-5. 🗣 Commented on [#47](https://github.com/ghulamyazdani/TruHealth/issues/47) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
+1. 🗣 Commented on [#7](https://github.com/Superposition-Chennai/Coding-Chrysanthemums/issues/7) in [Superposition-Chennai/Coding-Chrysanthemums](https://github.com/Superposition-Chennai/Coding-Chrysanthemums)
+2. ❗️ Opened issue [#7](https://github.com/Superposition-Chennai/Coding-Chrysanthemums/issues/7) in [Superposition-Chennai/Coding-Chrysanthemums](https://github.com/Superposition-Chennai/Coding-Chrysanthemums)
+3. 🗣 Commented on [#56](https://github.com/ghulamyazdani/TruHealth/issues/56) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
+4. 💪 Opened PR [#56](https://github.com/ghulamyazdani/TruHealth/pull/56) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
+5. 🗣 Commented on [#55](https://github.com/ghulamyazdani/TruHealth/issues/55) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
 <!--END_SECTION:activity-->
 
  </details>
