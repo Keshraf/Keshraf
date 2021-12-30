@@ -68,11 +68,11 @@ Here are some ideas to get you started:
   <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#173](https://github.com/web3community/start-here/issues/173) in [web3community/start-here](https://github.com/web3community/start-here)
-2. ❗️ Opened issue [#3202](https://github.com/EddieHubCommunity/support/issues/3202) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#7](https://github.com/Superposition-Chennai/Coding-Chrysanthemums/issues/7) in [Superposition-Chennai/Coding-Chrysanthemums](https://github.com/Superposition-Chennai/Coding-Chrysanthemums)
-4. ❗️ Opened issue [#7](https://github.com/Superposition-Chennai/Coding-Chrysanthemums/issues/7) in [Superposition-Chennai/Coding-Chrysanthemums](https://github.com/Superposition-Chennai/Coding-Chrysanthemums)
-5. 🗣 Commented on [#56](https://github.com/ghulamyazdani/TruHealth/issues/56) in [ghulamyazdani/TruHealth](https://github.com/ghulamyazdani/TruHealth)
+1. ❗️ Opened issue [#6](https://github.com/GEPTON-INFOTECH/galena/issues/6) in [GEPTON-INFOTECH/galena](https://github.com/GEPTON-INFOTECH/galena)
+2. ❗️ Opened issue [#173](https://github.com/web3community/start-here/issues/173) in [web3community/start-here](https://github.com/web3community/start-here)
+3. ❗️ Opened issue [#3202](https://github.com/EddieHubCommunity/support/issues/3202) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#7](https://github.com/Superposition-Chennai/Coding-Chrysanthemums/issues/7) in [Superposition-Chennai/Coding-Chrysanthemums](https://github.com/Superposition-Chennai/Coding-Chrysanthemums)
+5. ❗️ Opened issue [#7](https://github.com/Superposition-Chennai/Coding-Chrysanthemums/issues/7) in [Superposition-Chennai/Coding-Chrysanthemums](https://github.com/Superposition-Chennai/Coding-Chrysanthemums)
 <!--END_SECTION:activity-->
 
  </details>
