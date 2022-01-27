@@ -69,11 +69,11 @@ Here are some ideas to get you started:
   <br />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/winterofcode/Reports-2021/pull/8) in [winterofcode/Reports-2021](https://github.com/winterofcode/Reports-2021)
-2. 🗣 Commented on [#6](https://github.com/GEPTON-INFOTECH/galena/issues/6) in [GEPTON-INFOTECH/galena](https://github.com/GEPTON-INFOTECH/galena)
-3. ❗️ Opened issue [#6](https://github.com/GEPTON-INFOTECH/galena/issues/6) in [GEPTON-INFOTECH/galena](https://github.com/GEPTON-INFOTECH/galena)
-4. ❗️ Opened issue [#173](https://github.com/web3community/start-here/issues/173) in [web3community/start-here](https://github.com/web3community/start-here)
-5. ❗️ Opened issue [#3202](https://github.com/EddieHubCommunity/support/issues/3202) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#856](https://github.com/dailydotdev/apps/pull/856) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+2. 💪 Opened PR [#8](https://github.com/winterofcode/Reports-2021/pull/8) in [winterofcode/Reports-2021](https://github.com/winterofcode/Reports-2021)
+3. 🗣 Commented on [#6](https://github.com/GEPTON-INFOTECH/galena/issues/6) in [GEPTON-INFOTECH/galena](https://github.com/GEPTON-INFOTECH/galena)
+4. ❗️ Opened issue [#6](https://github.com/GEPTON-INFOTECH/galena/issues/6) in [GEPTON-INFOTECH/galena](https://github.com/GEPTON-INFOTECH/galena)
+5. ❗️ Opened issue [#173](https://github.com/web3community/start-here/issues/173) in [web3community/start-here](https://github.com/web3community/start-here)
 <!--END_SECTION:activity-->
 
  </details>
