@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#856](https://github.com/dailydotdev/apps/issues/856) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
 3. ❌ Closed PR [#856](https://github.com/dailydotdev/apps/pull/856) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
 4. 💪 Opened PR [#856](https://github.com/dailydotdev/apps/pull/856) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-5. 💪 Opened PR [#8](https://github.com/winterofcode/Reports-2021/pull/8) in [winterofcode/Reports-2021](https://github.com/winterofcode/Reports-2021)
+5. 🗣 Commented on [#6](https://github.com/GEPTON-INFOTECH/galena/issues/6) in [GEPTON-INFOTECH/galena](https://github.com/GEPTON-INFOTECH/galena)
 <!--END_SECTION:activity-->
 
  </details>
