@@ -69,11 +69,11 @@ Here are some ideas to get you started:
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/Code-dig-ger/Frontend-Revamp/issues/25) in [Code-dig-ger/Frontend-Revamp](https://github.com/Code-dig-ger/Frontend-Revamp)
-2. 💪 Opened PR [#25](https://github.com/Code-dig-ger/Frontend-Revamp/pull/25) in [Code-dig-ger/Frontend-Revamp](https://github.com/Code-dig-ger/Frontend-Revamp)
-3. 🗣 Commented on [#856](https://github.com/dailydotdev/apps/issues/856) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-4. ❌ Closed PR [#856](https://github.com/dailydotdev/apps/pull/856) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
-5. 💪 Opened PR [#856](https://github.com/dailydotdev/apps/pull/856) in [dailydotdev/apps](https://github.com/dailydotdev/apps)
+1. 🗣 Commented on [#344](https://github.com/Codecademy/docs/issues/344) in [Codecademy/docs](https://github.com/Codecademy/docs)
+2. 🗣 Commented on [#344](https://github.com/Codecademy/docs/issues/344) in [Codecademy/docs](https://github.com/Codecademy/docs)
+3. 🗣 Commented on [#344](https://github.com/Codecademy/docs/issues/344) in [Codecademy/docs](https://github.com/Codecademy/docs)
+4. 🗣 Commented on [#25](https://github.com/Code-dig-ger/Frontend-Revamp/issues/25) in [Code-dig-ger/Frontend-Revamp](https://github.com/Code-dig-ger/Frontend-Revamp)
+5. 💪 Opened PR [#25](https://github.com/Code-dig-ger/Frontend-Revamp/pull/25) in [Code-dig-ger/Frontend-Revamp](https://github.com/Code-dig-ger/Frontend-Revamp)
 <!--END_SECTION:activity-->
 
  </details>
