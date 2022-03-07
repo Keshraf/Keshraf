@@ -69,8 +69,8 @@ Here are some ideas to get you started:
   <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#344](https://github.com/Codecademy/docs/issues/344) in [Codecademy/docs](https://github.com/Codecademy/docs)
-2. 🗣 Commented on [#344](https://github.com/Codecademy/docs/issues/344) in [Codecademy/docs](https://github.com/Codecademy/docs)
+1. ❗️ Opened issue [#2](https://github.com/Keshraf/simply-tracker/issues/2) in [Keshraf/simply-tracker](https://github.com/Keshraf/simply-tracker)
+2. ❗️ Opened issue [#1](https://github.com/Keshraf/simply-tracker/issues/1) in [Keshraf/simply-tracker](https://github.com/Keshraf/simply-tracker)
 3. 🗣 Commented on [#344](https://github.com/Codecademy/docs/issues/344) in [Codecademy/docs](https://github.com/Codecademy/docs)
 4. 🗣 Commented on [#344](https://github.com/Codecademy/docs/issues/344) in [Codecademy/docs](https://github.com/Codecademy/docs)
 5. 🗣 Commented on [#344](https://github.com/Codecademy/docs/issues/344) in [Codecademy/docs](https://github.com/Codecademy/docs)
