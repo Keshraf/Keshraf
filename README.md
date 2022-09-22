@@ -1,4 +1,4 @@
-### Hello World <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="10px">
+### Hello World <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="20px">
 
 I am a developer from Kolkata, India.
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- <img src="https://user-images.githubusercontent.com/82109991/139529345-594a3f50-39e1-4bf0-b514-b541e74699e9.gif" width="20px"> I’m currently learning React 
+- <img src="https://user-images.githubusercontent.com/82109991/139529345-594a3f50-39e1-4bf0-b514-b541e74699e9.gif" width="20px"> I’m currently building projects 
 - <img src="https://user-images.githubusercontent.com/82109991/139529277-73467232-3634-40fc-8e8a-8fdc6018423a.gif" width="20px"> I’m looking to collaborate on anything Web
 - <img src="https://user-images.githubusercontent.com/82109991/139529516-7090bb08-54c8-43a8-8332-133b100432ed.gif" width="20px"> Ask me about new web technologies, communities and finance.
 - <img src="https://user-images.githubusercontent.com/82109991/139529388-e0c01c4b-ae01-446d-9edf-45a381ef1765.gif" width="20px"> Pronouns: He/Him
@@ -33,12 +33,15 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
@@ -47,6 +50,9 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### GitHub Stats <img src="https://user-images.githubusercontent.com/82109991/145544086-7ea9dab0-b657-457b-925f-b547ed7e3b32.gif" width="30px">
 
